@@ -12,7 +12,7 @@ In this machine learning challenge, we created a retrieval model to obtain the p
 
 -----------------------------------------------------------------------------------------------
 
-For the regular track, I did not include this hdf5 file here, it can be reproduced from the Ariel baseline solution notebook. The Ariel Baseline solution was included in this notebook, along with their helper functions in order to see how to compute the spec_matrix. I added their Light Track solution, which is the Ariel submission csv file.
+For the regular track, I did not include this hdf5 file here, it can be reproduced from the Ariel baseline solution notebook. The Ariel Baseline solution was included in my Supervised_Learning repository, along with their helper functions in order to see how to compute the spec_matrix. I added their Light Track solution, which is the Ariel submission csv file.
 
 -----------------------------------------------------------------------------------------------
 
